@@ -268,7 +268,7 @@ footer p{
     list-style: none;
 }
 
-@media (max-width: 950px) {
+@media only screen and (max-width: 950px) {
     #navBar ul{
         display: none;
       }
