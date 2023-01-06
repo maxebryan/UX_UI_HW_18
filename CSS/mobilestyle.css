@@ -1,0 +1,24 @@
+#navBar ul{
+    display: none;
+  }
+  #navBar .hamburger {
+    margin-left: auto;
+    width: 70px;
+    height: 70px;
+  }
+  .subHeading{
+      background-color: #ffffff;
+  }
+  .heroPhoto, .hpb{
+      display: none;
+  }
+  .whatsNext{
+      display: flex;
+      flex-direction: column;
+      width: 240px;
+      height: 460px;
+      background-color: #17706E;
+  }
+  .pleaseWork {
+      color: white;
+  }
